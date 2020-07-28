@@ -1,0 +1,11 @@
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\bin\Debug\SistemaPizza.exe.config
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\bin\Debug\SistemaPizza.exe
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\bin\Debug\SistemaPizza.pdb
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\obj\Debug\SistemaPizza.csprojAssemblyReference.cache
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\obj\Debug\SistemaPizza.Login.resources
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\obj\Debug\SistemaPizza.Properties.Resources.resources
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\obj\Debug\SistemaPizza.csproj.GenerateResource.cache
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\obj\Debug\SistemaPizza.csproj.CoreCompileInputs.cache
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\obj\Debug\SistemaPizza.exe
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\obj\Debug\SistemaPizza.pdb
+C:\Users\zarko\source\repos\SistemaPizza\SistemaPizza\obj\Debug\SistemaPizza.principal.resources
